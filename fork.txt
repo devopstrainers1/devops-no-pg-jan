@@ -1,0 +1,10 @@
+Hai this file is reagrding fork,push,pull concept
+step1: fork copy source url and paste it in ourbrowser  github account which is alredy login 
+step2:then we get it in our repo nxt we copy https url from code tab
+and clone it by using gitclone command.Before doing this clone we have new directory so first create new directory nd then clone it
+step:3
+    after clone as usual add the file,commit 
+step:4
+ push 
+step5:
+create a pull request (PR) after push was done.
